@@ -1,4 +1,3 @@
-# Machine Learning Projects
+# Machine Learning Projects  wirh Complete video tutorial
 Mini projects in machine learning with jupyter notebook files.
-# Complete video tutorial for the projects:-
 http://bit.ly/mlprojectsplaylist
